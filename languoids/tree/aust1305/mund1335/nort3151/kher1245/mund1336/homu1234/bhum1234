@@ -1,0 +1,59 @@
+# -*- coding: utf-8 -*-
+[core]
+name = Bhumij
+level = language
+macroareas = 
+	Eurasia
+links = 
+	[Bhumij](https://endangeredlanguages.com/lang/1601)
+	https://en.wikipedia.org/wiki/Bhumij_language
+	https://www.wikidata.org/entity/Q57920059
+ [Bhumij](https://wals.info/languoid/lect/wals_code_bhu)
+latitude = 22.552
+longitude = 85.804
+countries = 
+	IN
+
+[altnames]
+elcat = 
+	Bhumij
+	Bhumij Thar
+	Bhumiɟ
+	Sadar Bhumij
+
+[identifier]
+endangeredlanguages = 1601
+
+[sources]
+glottolog = 
+	**cldf:lewis:ed:09**
+	**cldf:np:14:6**
+ **hh:d:Sardar:Bhumija**
+	**hh:e:Chowdhury:Bhumij**
+	**hh:e:Das:Bhumijas**
+ **hh:g:Ramaswami:Bhumij**
+ **hh:typ:Samala:Bhumij**
+
+lexvo = 
+	Bhumij [fr]
+	Bhumij language [en]
+	Bhumij [en]
+hhbib_lgcode = 
+	Bhumij Maunbhoom
+	Bhumija
+	Bhumijas of Seraikella
+	Bhúmij
+
+[triggers]
+lgcode = 
+	bhumij
+	kohls
+
+ [identifier]
+wals = bhum
+
+[endangerment]
+status = not endangered
+date = 2023-07-06T16:07:15
+comment = Bhumij (1601) = At risk (20 percent certain, based on the evidence available) [n.a. 2014](cldf:np:14:6)
+source = ElCat
